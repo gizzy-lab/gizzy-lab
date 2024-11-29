@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gizzy-lab
-- 👀 I’m interested in digital media, graphic design and content marketing
+- 👀 I’m interested in coding, cyber security, graphic design and content marketing
 - 🌱 I’m currently learning Cyber Security with IBM and Kodluyoruz. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me send e-mail
