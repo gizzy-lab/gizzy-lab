@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gizzy-lab
-- 👀 I’m interested in coding, cyber security, graphic design and content marketing
-- 🌱 I’m currently learning Cyber Security with IBM and Kodluyoruz. 
+- 👀 I’m interested in cyber security, graphic design, content marketing and gaming
+- 🌱 I’m currently learning Cyber Security 
 - 📫 If you want to reach me, send an e-mail
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Everything happens for a reason.
